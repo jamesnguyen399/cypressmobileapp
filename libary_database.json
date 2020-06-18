@@ -1,0 +1,15 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "content": [
+        {
+          "link": {
+            "external": "https://www.google.com"
+            "authority": {
+              "type": "default"
+              }
+            }
+        }
+    ]
+}
