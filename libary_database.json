@@ -5,7 +5,7 @@
     "content": [
         {
           "link": {
-            "external": "https://www.google.com"
+            "external": "https://www.google.com",
             "authority": {
               "type": "default"
               }
