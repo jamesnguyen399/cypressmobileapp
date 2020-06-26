@@ -1,602 +1,1208 @@
 {
+
     "metadata": {
+
         "version": "1.0"
+
     },
-    "content": [
-        {
+
+    "content": [{"elementType" : "container",
+
+"margins": {"value":"none"},
+
+"content": [{
+
             "elementType": "tabs",
+
             "tabs": [
+
                 {
+
                     "title": "New F1 Visa Student",
+
                     "content": [
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Non-refundable fee",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>Submit a non-refundable application fee of <strong>$40.00 <br> Applications will be processed after the application fee has been paid</strong> <br>Due to COVID -19, you can pay online.</span >"
+
+                                    "html": "<span>Submit a non-refundable application fee of <strong>$40.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Online Payment",
+
                                             "link": {
+
                                                 "external": "https://payment.flywire.com/pay/payment"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Required Documents",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from anymcolleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.</span>"
+
+                                    "html": "<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from any colleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.</span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Send to Program Email",
+
                                             "link": {
+
                                                 "external": "mailto:internaltional@cypresscollege.edu"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Complete the required form",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
+
                                     "html": "<span>Complete the <strong>PDF International Student Application</strong>.<br>Complete the Financial Support Statement (see page 3 of the application).<br>Applicants under 18 must also complete the Cypress College Consent to Treat Minor Patient form.<br>Handwritten applications will not be accepted. </span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "International Student Application.pdf",
+
                                             "link": {
+
                                                 "external": "http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In.pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         },
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Consent to Treat Minor Patient.pdf",
+
                                             "link": {
+
                                                 "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/MinorForm+(1).pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                                {
+
             "elementType": "collapsible",
+
             "title": "The English Standard Test",
+
             "collapsed": true,
+
             "disclosureIcon": "chevron",
+
             "content": [
+
                 {
+
                     "elementType": "table",
+
                     "width": "Max",
+
                     "heading": "Complete one of the following",
+
                     "columnOptions": [
+
                         {
+
                             "header": "Exams"
+
                         },
+
                         {
+
                             "header": "Requirement",
+
                             "width": "40%"
+
                         },
+
                         {
+
                             "header": "Notes",
+
                             "width": "30%"
+
                         }
+
                     ],
+
                     "rows": [
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "TOEFL"
+
                                 },
+
                                 {
+
                                     "title": " > 61 (iBT)"
+
                                 },
+
                                 {
+
                                     "title": "Cypress College<br> school code is 4104"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "IELTS"
+
                                 },
+
                                 {
+
                                     "title": " >  Band 5"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "iTEP"
+
                                 },
+
                                 {
+
                                     "title": " > Level 3.5"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "PTE Acedemic"
+
                                 },
+
                                 {
+
                                     "title": " > score of 44"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Duolingo English Class"
+
                                 },
+
                                 {
+
                                     "title": " > 85 on first attempt"
+
                                 },
+
                                 {
+
                                     "title": "Results are available <br>within 48 hours of the test session"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Certificate of required<br>ESL Level completion"
+
                                 },
+
                                 {
+
                                     "title": "certificate must<br>be less than 1 year"
+
                                 },
+
                                 {
+
                                     "title": "from any of our<br>partner language schools"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Previous College<br>-Level English Coursework"
+
                                 },
+
                                 {
+
                                     "title": "transcript required"
+
                                 },
+
                                 {
+
                                     "title": "from a U.S. college/university"
+
                                 }
+
                             ]
+
                         }
+
                     ]
+
                 }
+
             ]
+
         }
+
                     ]
+
                 },
+
                 {
+
                     "title": "Transfer F1 Visa Student",
+
                     "content": [
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Non-refundable fee",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>Submit a non-refundable application fee of <strong>$40.00 <br> Applications will be processed after the application fee has been paid</strong> <br>Due to COVID -19, you can pay online.</span >"
+
+                                    "html": "<span>Submit a non-refundable application fee of <strong>$40.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Online Payment",
+
                                             "link": {
+
                                                 "external": "https://payment.flywire.com/pay/payment"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Required Documents",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from anymcolleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.<br>5.<strong>Copy of I-20 Form</strong><br>6. <strong>Copy of Visa</strong><br>7.<strong> Copy of I-94<br>7. <strong>Copy of Passport.<br></strong></span>"
+
+                                    "html": "<span>1. <strong>Official secondary education (high school) transcripts in English OR GED certification</strong> if applicable.<br>2. <strong>Official transcripts in English</strong> from any colleges/universities attended.<br>3. <strong>Bank Certification </strong>(must be less than 6 months old).<br>4. <strong>Copy of valid passport</strong> required for new students applying from overseas.<br>5. <strong>Copy of I-20 Form</strong><br>6. <strong>Copy of Visa</strong><br>7.<strong> Copy of I-94<br>8. <strong>Copy of Passport<br></strong></span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Send to Program Email",
+
                                             "link": {
+
                                                 "external": "mailto:internaltional@cypresscollege.edu"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Complete the required form",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
+
                                     "html": "<span>Complete the <strong>PDF International Student Application</strong>.<br>Complete the Financial Support Statement (see page 3 of the application).<br><strong>Transfer Eligibility Form </strong>signed by an official from the college you are currently attending.<br>Handwritten applications will not be accepted. </span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "International Student Application.pdf",
+
                                             "link": {
+
                                                 "external": "http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In.pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         },
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Transfer Eligibility Form.pdf",
+
                                             "link": {
+
                                                 "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/Transfer-Eligibility-Form+(1).pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                                {
+
             "elementType": "collapsible",
+
             "title": "The English Standard Test",
+
             "collapsed": true,
+
             "disclosureIcon": "chevron",
+
             "content": [
+
                 {
+
                     "elementType": "table",
+
                     "width": "Max",
+
                     "heading": "Complete one of the following",
+
                     "columnOptions": [
+
                         {
+
                             "header": "Exams"
+
                         },
+
                         {
+
                             "header": "Requirement",
+
                             "width": "40%"
+
                         },
+
                         {
+
                             "header": "Notes",
+
                             "width": "30%"
+
                         }
+
                     ],
+
                     "rows": [
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "TOEFL"
+
                                 },
+
                                 {
+
                                     "title": " > 61 (iBT)"
+
                                 },
+
                                 {
+
                                     "title": "Cypress College<br> school code is 4104"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "IELTS"
+
                                 },
+
                                 {
+
                                     "title": " >  Band 5"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "iTEP"
+
                                 },
+
                                 {
+
                                     "title": " > Level 3.5"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "PTE Acedemic"
+
                                 },
+
                                 {
+
                                     "title": " > score of 44"
+
                                 },
+
                                 {
+
                                     "title": "--"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Duolingo English Class"
+
                                 },
+
                                 {
+
                                     "title": " > 85 on first attempt"
+
                                 },
+
                                 {
+
                                     "title": "Results are available <br>within 48 hours of the test session"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Certificate of required<br>ESL Level completion"
+
                                 },
+
                                 {
+
                                     "title": "certificate must<br>be less than 1 year"
+
                                 },
+
                                 {
+
                                     "title": "from any of our<br>partner language schools"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "cells": [
+
                                 {
+
                                     "title": "Previous College<br>-Level English Coursework"
+
                                 },
+
                                 {
+
                                     "title": "transcript required"
+
                                 },
+
                                 {
+
                                     "title": "from a U.S. college/university"
+
                                 }
+
                             ]
+
                         }
+
                     ]
+
                 }
+
             ]
+
         }
+
                     ]
-                },
-                {
+
+                }]}]},
+
+{"elementType" : "container",
+
+"margins": {"value":"none"},
+
+"content": [ {
+
                     "title": "Part-time F1 Visa Student",
+
                     "content": [
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Non-refundable fee",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>Submit a non-refundable application fee of <strong>$20.00 <br> Applications will be processed after the application fee has been paid</strong> <br>Due to COVID -19, you can pay online.</span >"
+
+                                    "html": "<span>Submit a non-refundable application fee of <strong>$20.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Online Payment",
+
                                             "link": {
+
                                                 "external": "https://payment.flywire.com/pay/payment"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Required Documents",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
+
                                     "html": "<span>A copy of current valid I-20</span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Send to Program Email",
+
                                             "link": {
+
                                                 "external": "mailto:internaltional@cypresscollege.edu"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 },
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
+
                                     "html": "<span><strong>F-1 Student Concurrent Enrollment Agreement</strong> completed by student and P/DSO (or authorization letter from P/DSO)</span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "F1 Student Concurrent Enrollment Agreement.pdf",
+
                                             "link": {
+
                                                 "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/f-1concurrentform.pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         }
+
                     ]
+
                 },
+
                 {
+
                     "title": "F2 Visa Student",
+
                     "content": [
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Non-refundable fee",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>Submit a non-refundable application fee of <strong>$20.00 <br> Applications will be processed after the application fee has been paid</strong> <br>Due to COVID -19, you can pay online.</span >"
+
+                                    "html": "<span>Submit a non-refundable application fee of <strong>$20.00. <br> Applications will be processed after the application fee has been paid</strong>. <br>Due to COVID -19, you can pay online.</span >"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Online Payment",
+
                                             "link": {
+
                                                 "external": "https://payment.flywire.com/pay/payment"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         },
+
                         {
+
                             "elementType": "collapsible",
+
                             "title": "Required Documents",
+
                             "collapsed": true,
+
                             "disclosureIcon": "chevron",
+
                             "content": [
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
-                                    "html": "<span>1.Copy of<strong> I-20 form</strong><br>2. Copy of <strong>Passport</strong><br>3. Copy of <strong>F-2 visa</strong><br>4.<strong> Copy of Electronic I-94 form</strong></span>"
+
+                                    "html": "<span>1. Copy of<strong> I-20 form</strong><br>2. Copy of <strong>Passport</strong><br>3. Copy of <strong>F-2 visa</strong><br>4.<strong> Copy of Electronic I-94 form</strong></span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "Send to Program Email",
+
                                             "link": {
+
                                                 "external": "mailto:internaltional@cypresscollege.edu"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 },
+
                                 {
+
                                     "elementType": "html",
+
                                     "focal": true,
+
                                     "html": "<span>1. <strong>F-2 International Student Application</strong><br>2. <strong>F-2 Status Verification Form</strong> completed by student and P/DSO (or authorization letter from P/DSO)</span>"
+
                                 },
+
                                 {
+
                                     "elementType": "buttonContainer",
+
                                     "buttons": [
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "F2 Student International Student Application.pdf",
+
                                             "link": {
+
                                                 "external": "http://news.cypresscollege.edu/Documents/ISP/Application-Form-Fill-In-F-2.pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         },
+
                                         {
+
                                             "elementType": "linkButton",
+
                                             "title": "F2 Student Verification form.pdf",
+
                                             "link": {
+
                                                 "external": "https://pdfs-584357938475934.s3.us-east-2.amazonaws.com/CalendarTextVersion09-24-15+(1).pdf"
+
                                             },
+
                                             "acessoryIcon": "drilldown"
+
                                         }
+
                                     ],
+
                                     "accessoryIconPosition": "right"
+
                                 }
+
                             ]
+
                         }
+
                     ]
-                }
-            ]
-        }
+
+                }]}
+
+
+
     ]
+
 }
+
