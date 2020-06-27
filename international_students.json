@@ -6,11 +6,9 @@
 
     },
 
-    "content": [{"elementType" : "container",
+    "content": [
 
-"margins": {"value":"none"},
-
-"content": [{
+        {
 
             "elementType": "tabs",
 
@@ -200,243 +198,243 @@
 
                         },
 
-                               {
-
-            "elementType": "collapsible",
-
-            "title": "The English Standard Test",
-
-            "collapsed": true,
-
-            "disclosureIcon": "chevron",
-
-            "content": [
-
-                {
-
-                    "elementType": "table",
-
-                    "width": "Max",
-
-                    "heading": "Complete one of the following",
-
-                    "columnOptions": [
-
                         {
 
-                            "header": "Exams"
+                            "elementType": "collapsible",
 
-                        },
+                            "title": "The English Standard Test",
 
-                        {
+                            "collapsed": true,
 
-                            "header": "Requirement",
+                            "disclosureIcon": "chevron",
 
-                            "width": "40%"
+                            "content": [
 
-                        },
+                                {
 
-                        {
+                                    "elementType": "table",
 
-                            "header": "Notes",
+                                    "width": "Max",
 
-                            "width": "30%"
+                                    "heading": "Complete one of the following",
+
+                                    "columnOptions": [
+
+                                        {
+
+                                            "header": "Exams"
+
+                                        },
+
+                                        {
+
+                                            "header": "Requirement",
+
+                                            "width": "40%"
+
+                                        },
+
+                                        {
+
+                                            "header": "Notes",
+
+                                            "width": "30%"
+
+                                        }
+
+                                    ],
+
+                                    "rows": [
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "TOEFL"
+
+                                                },
+
+                                                {
+
+                                                    "title": " > 61 (iBT)"
+
+                                                },
+
+                                                {
+
+                                                    "title": "Cypress College<br> school code is 4104"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "IELTS"
+
+                                                },
+
+                                                {
+
+                                                    "title": " >  Band 5"
+
+                                                },
+
+                                                {
+
+                                                    "title": "--"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "iTEP"
+
+                                                },
+
+                                                {
+
+                                                    "title": " > Level 3.5"
+
+                                                },
+
+                                                {
+
+                                                    "title": "--"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "PTE Acedemic"
+
+                                                },
+
+                                                {
+
+                                                    "title": " > score of 44"
+
+                                                },
+
+                                                {
+
+                                                    "title": "--"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "Duolingo English Class"
+
+                                                },
+
+                                                {
+
+                                                    "title": " > 85 on first attempt"
+
+                                                },
+
+                                                {
+
+                                                    "title": "Results are available <br>within 48 hours of the test session"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "Certificate of required<br>ESL Level completion"
+
+                                                },
+
+                                                {
+
+                                                    "title": "certificate must<br>be less than 1 year"
+
+                                                },
+
+                                                {
+
+                                                    "title": "from any of our<br>partner language schools"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "Previous College<br>-Level English Coursework"
+
+                                                },
+
+                                                {
+
+                                                    "title": "transcript required"
+
+                                                },
+
+                                                {
+
+                                                    "title": "from a U.S. college/university"
+
+                                                }
+
+                                            ]
+
+                                        }
+
+                                    ]
+
+                                }
+
+                            ]
 
                         }
-
-                    ],
-
-                    "rows": [
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "TOEFL"
-
-                                },
-
-                                {
-
-                                    "title": " > 61 (iBT)"
-
-                                },
-
-                                {
-
-                                    "title": "Cypress College<br> school code is 4104"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "IELTS"
-
-                                },
-
-                                {
-
-                                    "title": " >  Band 5"
-
-                                },
-
-                                {
-
-                                    "title": "--"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "iTEP"
-
-                                },
-
-                                {
-
-                                    "title": " > Level 3.5"
-
-                                },
-
-                                {
-
-                                    "title": "--"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "PTE Acedemic"
-
-                                },
-
-                                {
-
-                                    "title": " > score of 44"
-
-                                },
-
-                                {
-
-                                    "title": "--"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "Duolingo English Class"
-
-                                },
-
-                                {
-
-                                    "title": " > 85 on first attempt"
-
-                                },
-
-                                {
-
-                                    "title": "Results are available <br>within 48 hours of the test session"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "Certificate of required<br>ESL Level completion"
-
-                                },
-
-                                {
-
-                                    "title": "certificate must<br>be less than 1 year"
-
-                                },
-
-                                {
-
-                                    "title": "from any of our<br>partner language schools"
-
-                                }
-
-                            ]
-
-                        },
-
-                        {
-
-                            "cells": [
-
-                                {
-
-                                    "title": "Previous College<br>-Level English Coursework"
-
-                                },
-
-                                {
-
-                                    "title": "transcript required"
-
-                                },
-
-                                {
-
-                                    "title": "from a U.S. college/university"
-
-                                }
-
-                            ]
-
-                        }
-
-                    ]
-
-                }
-
-            ]
-
-        }
 
                     ]
 
@@ -626,229 +624,237 @@
 
                         },
 
-                               {
-
-            "elementType": "collapsible",
-
-            "title": "The English Standard Test",
-
-            "collapsed": true,
-
-            "disclosureIcon": "chevron",
-
-            "content": [
-
-                {
-
-                    "elementType": "table",
-
-                    "width": "Max",
-
-                    "heading": "Complete one of the following",
-
-                    "columnOptions": [
-
                         {
 
-                            "header": "Exams"
+                            "elementType": "collapsible",
 
-                        },
+                            "title": "The English Standard Test",
 
-                        {
+                            "collapsed": true,
 
-                            "header": "Requirement",
+                            "disclosureIcon": "chevron",
 
-                            "width": "40%"
-
-                        },
-
-                        {
-
-                            "header": "Notes",
-
-                            "width": "30%"
-
-                        }
-
-                    ],
-
-                    "rows": [
-
-                        {
-
-                            "cells": [
+                            "content": [
 
                                 {
 
-                                    "title": "TOEFL"
+                                    "elementType": "table",
 
-                                },
+                                    "width": "Max",
 
-                                {
+                                    "heading": "Complete one of the following",
 
-                                    "title": " > 61 (iBT)"
+                                    "columnOptions": [
 
-                                },
+                                        {
 
-                                {
+                                            "header": "Exams"
 
-                                    "title": "Cypress College<br> school code is 4104"
+                                        },
 
-                                }
+                                        {
 
-                            ]
+                                            "header": "Requirement",
 
-                        },
+                                            "width": "40%"
 
-                        {
+                                        },
 
-                            "cells": [
+                                        {
 
-                                {
+                                            "header": "Notes",
 
-                                    "title": "IELTS"
+                                            "width": "30%"
 
-                                },
+                                        }
 
-                                {
+                                    ],
 
-                                    "title": " >  Band 5"
+                                    "rows": [
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "--"
+                                                {
 
-                                }
+                                                    "title": "TOEFL"
 
-                            ]
+                                                },
 
-                        },
+                                                {
 
-                        {
+                                                    "title": " > 61 (iBT)"
 
-                            "cells": [
+                                                },
 
-                                {
+                                                {
 
-                                    "title": "iTEP"
+                                                    "title": "Cypress College<br> school code is 4104"
 
-                                },
+                                                }
 
-                                {
+                                            ]
 
-                                    "title": " > Level 3.5"
+                                        },
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "--"
+                                                {
 
-                                }
+                                                    "title": "IELTS"
 
-                            ]
+                                                },
 
-                        },
+                                                {
 
-                        {
+                                                    "title": " >  Band 5"
 
-                            "cells": [
+                                                },
 
-                                {
+                                                {
 
-                                    "title": "PTE Acedemic"
+                                                    "title": "--"
 
-                                },
+                                                }
 
-                                {
+                                            ]
 
-                                    "title": " > score of 44"
+                                        },
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "--"
+                                                {
 
-                                }
+                                                    "title": "iTEP"
 
-                            ]
+                                                },
 
-                        },
+                                                {
 
-                        {
+                                                    "title": " > Level 3.5"
 
-                            "cells": [
+                                                },
 
-                                {
+                                                {
 
-                                    "title": "Duolingo English Class"
+                                                    "title": "--"
 
-                                },
+                                                }
 
-                                {
+                                            ]
 
-                                    "title": " > 85 on first attempt"
+                                        },
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "Results are available <br>within 48 hours of the test session"
+                                                {
 
-                                }
+                                                    "title": "PTE Acedemic"
 
-                            ]
+                                                },
 
-                        },
+                                                {
 
-                        {
+                                                    "title": " > score of 44"
 
-                            "cells": [
+                                                },
 
-                                {
+                                                {
 
-                                    "title": "Certificate of required<br>ESL Level completion"
+                                                    "title": "--"
 
-                                },
+                                                }
 
-                                {
+                                            ]
 
-                                    "title": "certificate must<br>be less than 1 year"
+                                        },
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "from any of our<br>partner language schools"
+                                                {
 
-                                }
+                                                    "title": "Duolingo English Class"
 
-                            ]
+                                                },
 
-                        },
+                                                {
 
-                        {
+                                                    "title": " > 85 on first attempt"
 
-                            "cells": [
+                                                },
 
-                                {
+                                                {
 
-                                    "title": "Previous College<br>-Level English Coursework"
+                                                    "title": "Results are available <br>within 48 hours of the test session"
 
-                                },
+                                                }
 
-                                {
+                                            ]
 
-                                    "title": "transcript required"
+                                        },
 
-                                },
+                                        {
 
-                                {
+                                            "cells": [
 
-                                    "title": "from a U.S. college/university"
+                                                {
+
+                                                    "title": "Certificate of required<br>ESL Level completion"
+
+                                                },
+
+                                                {
+
+                                                    "title": "certificate must<br>be less than 1 year"
+
+                                                },
+
+                                                {
+
+                                                    "title": "from any of our<br>partner language schools"
+
+                                                }
+
+                                            ]
+
+                                        },
+
+                                        {
+
+                                            "cells": [
+
+                                                {
+
+                                                    "title": "Previous College<br>-Level English Coursework"
+
+                                                },
+
+                                                {
+
+                                                    "title": "transcript required"
+
+                                                },
+
+                                                {
+
+                                                    "title": "from a U.S. college/university"
+
+                                                }
+
+                                            ]
+
+                                        }
+
+                                    ]
 
                                 }
 
@@ -862,17 +868,15 @@
 
             ]
 
-        }
+        },
 
-                    ]
+        {
 
-                }]}]},
+            "elementType": "tabs",
 
-{"elementType" : "container",
+            "tabs": [
 
-"margins": {"value":"none"},
-
-"content": [ {
+                {
 
                     "title": "Part-time F1 Visa Student",
 
@@ -1198,11 +1202,12 @@
 
                     ]
 
-                }]}
+                }
 
+            ]
 
+        }
 
     ]
 
 }
-
